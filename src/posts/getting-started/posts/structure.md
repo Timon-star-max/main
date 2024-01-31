@@ -14,7 +14,7 @@ The structure is a generic Eleventy theme with the standard folder and file name
 ```html
 spruecss-eleventy-documentation-template/
 ├─ node_modules/
-├─ dist/
+├─ _site/
 ├─ src/
 │  ├─ _data/
 │  ├─ _includes/
